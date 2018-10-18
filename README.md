@@ -1,1 +1,13 @@
 # naijahacks-GENERICS
+NaijaHacks Hackathon 2018
+Team GENERICS
+Team members(ABDULSALAM-DAUD, abdulsalamdahood@gmail.com)
+Section-HEALTH
+Problem-EASY DATA LOSS
+CARD RETENTION
+EXCESS PAPERWORK
+DATA CENTRALIZATION
+
+
+Proposed Solution-A BLOCKCHAIN POWERED DECENTRALIZED HEALTH RECORD KEEPING SYSTEM
+Proposed Stack 
